@@ -1,4 +1,4 @@
-package dev.thriving.oss.java.library.template;
+package com.nkduy.javalib;
 
 /**
  * Javadoc for {@link JavaLibraryTemplate}

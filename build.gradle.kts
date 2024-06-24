@@ -1,4 +1,4 @@
-group = "dev.thriving.oss"
+group = "io.github.khanhduy1407"
 
 plugins {
     alias(libs.plugins.publish)
